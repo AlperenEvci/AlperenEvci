@@ -2,7 +2,7 @@
 Hello, my name is Alperen Evci. I am a passionate programmer with a strong interest in developing my skills and knowledge in the field. Since my childhood, I have been fascinated by the power of programming to create and innovate. I am constantly seeking new challenges and opportunities to grow ahnd learn. I am excited to connect with other professionals in the industry and share my experiences and insights.
 
 - 🔭 &nbsp;I’m currently studying on Eskişehir Osmangazi Univercity
-- 🌱 &nbsp;I’m currently learning Machine Learning, NLP for Turkish
+- 🌱 &nbsp;I’m currently learning Machine Learning, NLP for Turkish, Java
 - 💬 &nbsp;Ask me about anything related to Living in Turkey
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and PC Gaming 
 
