@@ -1,11 +1,14 @@
-### ✨&nbsp; About Me
-Hello, my name is Alperen Evci. I am a passionate programmer with a strong interest in developing my skills and knowledge in the field. Since my childhood, I have been fascinated by the power of programming to create and innovate. I am constantly seeking new challenges and opportunities to grow and learn. I am excited to connect with other professionals in the industry and share my experiences and insights.
+### ✨  About Me
+Hello, my name is Alperen Evci. I am a dedicated programmer with a strong passion for continuous learning and innovation. Since childhood, I’ve been inspired by the transformative power of technology, and I’m committed to exploring its potential to create meaningful solutions. Whether it's tackling challenging problems or collaborating on impactful projects, I strive to grow and contribute in every opportunity I pursue.
 
-- 🔭 &nbsp;I’m currently studying on Eskişehir Osmangazi University
-- 🌱 &nbsp;I’m currently learning Deep Learning, NLP for Turkish
-- 💬 &nbsp;Ask me about anything related to Living in Turkey
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and PC Gaming 
-
+- 🔭  I’m currently studying at Eskişehir Osmangazi University 
+- 🌱  I’m currently focusing on Deep Learning, particularly Natural Language Processing (NLP) for the Turkish language
+- 🚀  I’m working on an IoT Management System, incorporating technologies like Spring Boot, Hibernate, React, and Raspberry Pi
+- 📜  I recently completed the NVIDIA Fundamentals of Deep Learning Workshop
+- 💬  Feel free to ask me about life in Turkey or programming projects
+- ⚡  Fun fact: I’m a huge fan of dogs 🐶 and PC gaming 🎮
+  
+- Let’s connect and build something incredible together! 😊
 
  🔗 &nbsp;**Connect with me**
 <p align="left">
