@@ -8,12 +8,12 @@ Hello, my name is Alperen Evci. I am a dedicated programmer with a strong passio
 - 💬  Feel free to ask me about life in Turkey or programming projects
 - ⚡  Fun fact: I’m a huge fan of dogs 🐶 and PC gaming 🎮
   
-- Let’s connect and build something incredible together! 😊
+- Let’s connect and build something incredible together! 😊<br>
 
  🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://linkedin.com/in/alperen-evci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/evc_alperen7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-   
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=AlperenEvci&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=AlperenEvci&show_icons=true&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenEvci&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
