@@ -1,7 +1,7 @@
 ### ✨  About Me
 
 <div align="Center" >
-  <img width ="850" height="350" src="/üst.png"/>
+  <img width ="850" height="350" src="/üst_photo.png"/>
 </div>
 
 ```yaml 
