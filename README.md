@@ -59,7 +59,6 @@ addictions: ["Coffee", "Self Development"]
   </a>
 </div>
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AlperenEvci&icon=0&color=0)](https://visitcount.itsvg.in)
 
