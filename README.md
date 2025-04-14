@@ -1,5 +1,3 @@
-### ✨  About Me
-
 <div align="Center" >
   <img width ="850" height="350" src="/üst_photo.png"/>
 </div>
@@ -11,7 +9,9 @@
 <a href="https://linkedin.com/in/alperen-evci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/evc_alperen7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
+---
 
+### ✨  About Me
 
 ```yaml 
 name: Alperen EVCİ
