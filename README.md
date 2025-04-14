@@ -29,7 +29,7 @@ Hello, my name is Alperen Evci. I am a dedicated programmer with a strong passio
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenEvci&theme=great-gatsby&layout=compact" />
   </a>
-</div
+</div>
   
 <div align="Center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
