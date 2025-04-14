@@ -1,5 +1,9 @@
 ### ✨  About Me
 
+<div align="Center" >
+  <img width ="850" height="350" src="/üst.png"/>
+</div>
+
 ```yaml 
 name: Alperen EVCİ
 located_in: Eskişehir, Turkey
@@ -59,4 +63,6 @@ addictions: ["Coffee", "Self Development"]
 ---
 [![](https://visitcount.itsvg.in/api?id=AlperenEvci&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="Center" >
+  <img width ="850" height="350" src="/alt.png"/>
+</div>
