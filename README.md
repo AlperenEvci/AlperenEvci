@@ -1,5 +1,5 @@
 <div align="Center" >
-  <img width ="850" height="350" src="/üst_photo.png"/>
+  <img width ="850" height="370" src="/üst_photo.png"/>
 </div>
 
 ## 🌐 Socials:
