@@ -1,5 +1,7 @@
+
+
 <div align="Center" >
-  <img width ="850" height="370" src="/üst_photo.png"/>
+  <img width ="850" height="470" src="/zenitsu-god-mode.gif"/>
 </div>
 
 ## 🌐 Socials:
