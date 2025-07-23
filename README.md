@@ -36,7 +36,7 @@ fields_of_interests:
 currently_learning: ["Agentic AI, Cloud, DevOps]
 
 hobbies: ["Gaming", "Cinema", "Music", "Art", "Networking"]
-addictions: ["Coffee", "Self Development"]
+addictions: ["Coffee", "Self Development "]
 ```
 
 
